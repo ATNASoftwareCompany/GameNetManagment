@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7HNJ1fjdM2/FYAAmwSeNvEVeJoIXAhGAJrUK9onLd9w=",
+  "Source": "GameNetManagment.Server",
+  "BasePath": "_content/GameNetManagment.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

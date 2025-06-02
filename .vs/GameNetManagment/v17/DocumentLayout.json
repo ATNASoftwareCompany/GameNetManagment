@@ -1,12 +1,120 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\GameNetManagment\\GameNetManagment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285F69A8-FB83-48E7-94D1-A2289791741F}|GameNetManagment.ClientAgent\\GameNetManagment.ClientAgent.csproj|g:\\gamenetmanagment\\gamenetmanagment\\gamenetmanagment.clientagent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285F69A8-FB83-48E7-94D1-A2289791741F}|GameNetManagment.ClientAgent\\GameNetManagment.ClientAgent.csproj|solutionrelative:gamenetmanagment.clientagent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285F69A8-FB83-48E7-94D1-A2289791741F}|GameNetManagment.ClientAgent\\GameNetManagment.ClientAgent.csproj|g:\\gamenetmanagment\\gamenetmanagment\\gamenetmanagment.clientagent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{285F69A8-FB83-48E7-94D1-A2289791741F}|GameNetManagment.ClientAgent\\GameNetManagment.ClientAgent.csproj|solutionrelative:gamenetmanagment.clientagent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA2AF7-404D-43A1-9734-F50D0F119969}|GameNetManagment.Server\\GameNetManagment.Server.csproj|g:\\gamenetmanagment\\gamenetmanagment\\gamenetmanagment.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA2AF7-404D-43A1-9734-F50D0F119969}|GameNetManagment.Server\\GameNetManagment.Server.csproj|solutionrelative:gamenetmanagment.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAA2AF7-404D-43A1-9734-F50D0F119969}|GameNetManagment.Server\\GameNetManagment.Server.csproj|g:\\gamenetmanagment\\gamenetmanagment\\gamenetmanagment.server\\hubs\\cafehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAA2AF7-404D-43A1-9734-F50D0F119969}|GameNetManagment.Server\\GameNetManagment.Server.csproj|solutionrelative:gamenetmanagment.server\\hubs\\cafehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F70114-4AE6-425E-88AE-A808A41E6551}|GameNetManagment.AdminPanel\\GameNetManagment.AdminPanel.csproj|g:\\gamenetmanagment\\gamenetmanagment\\gamenetmanagment.adminpanel\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{47F70114-4AE6-425E-88AE-A808A41E6551}|GameNetManagment.AdminPanel\\GameNetManagment.AdminPanel.csproj|solutionrelative:gamenetmanagment.adminpanel\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F70114-4AE6-425E-88AE-A808A41E6551}|GameNetManagment.AdminPanel\\GameNetManagment.AdminPanel.csproj|g:\\gamenetmanagment\\gamenetmanagment\\gamenetmanagment.adminpanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47F70114-4AE6-425E-88AE-A808A41E6551}|GameNetManagment.AdminPanel\\GameNetManagment.AdminPanel.csproj|solutionrelative:gamenetmanagment.adminpanel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.ClientAgent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GameNetManagment.ClientAgent\\MainWindow.xaml",
+              "ToolTip": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.ClientAgent\\MainWindow.xaml",
+              "RelativeToolTip": "GameNetManagment.ClientAgent\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T18:37:36.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.ClientAgent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GameNetManagment.ClientAgent\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.ClientAgent\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GameNetManagment.ClientAgent\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAWwFAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:37:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.Server\\Program.cs",
+              "RelativeDocumentMoniker": "GameNetManagment.Server\\Program.cs",
+              "ToolTip": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.Server\\Program.cs",
+              "RelativeToolTip": "GameNetManagment.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:35:20.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CafeHub.cs",
+              "DocumentMoniker": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.Server\\Hubs\\CafeHub.cs",
+              "RelativeDocumentMoniker": "GameNetManagment.Server\\Hubs\\CafeHub.cs",
+              "ToolTip": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.Server\\Hubs\\CafeHub.cs",
+              "RelativeToolTip": "GameNetManagment.Server\\Hubs\\CafeHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:32:16.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.AdminPanel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GameNetManagment.AdminPanel\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.AdminPanel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GameNetManagment.AdminPanel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAWwEIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:23:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.AdminPanel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GameNetManagment.AdminPanel\\MainWindow.xaml",
+              "ToolTip": "G:\\GameNetManagment\\GameNetManagment\\GameNetManagment.AdminPanel\\MainWindow.xaml",
+              "RelativeToolTip": "GameNetManagment.AdminPanel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T18:21:32.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,12 @@
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\bin\Debug\net8.0\GameNetManagment.Core.deps.json
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\bin\Debug\net8.0\GameNetManagment.Core.dll
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\bin\Debug\net8.0\GameNetManagment.Core.pdb
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\GameNetManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\GameNetManagment.Core.AssemblyInfoInputs.cache
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\GameNetManagment.Core.AssemblyInfo.cs
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\GameNetManagment.Core.csproj.CoreCompileInputs.cache
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\GameNetManagment.Core.sourcelink.json
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\GameNetManagment.Core.dll
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\refint\GameNetManagment.Core.dll
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\GameNetManagment.Core.pdb
+G:\GameNetManagment\GameNetManagment\GameNetManagment.Core\obj\Debug\net8.0\ref\GameNetManagment.Core.dll
